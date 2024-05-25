@@ -1,0 +1,94 @@
+09:38:09.666 [main] INFO  - --------------- Start Test Scenario 1 ---------------
+09:38:09.742 [main] INFO  - Car loan button clicked
+09:38:11.853 [main] INFO  - Loan Amount is set
+09:38:12.896 [main] INFO  - rate of interest is set
+09:38:14.482 [main] INFO  - loan tenure is set
+09:38:15.131 [main] INFO  - emi data fetched
+09:38:15.156 [main] INFO  - data fetched in excel file
+09:38:15.157 [main] INFO  - --------------- Test Scenario 1 completed ---------------
+09:38:19.139 [main] INFO  - --------------- Start Test Scenario 2 ---------------
+09:38:19.232 [main] INFO  - click on calculators
+09:38:23.328 [main] INFO  - click on Home-Loan-Emi-Calculator
+09:38:27.652 [main] INFO  - Home value set
+09:38:27.787 [main] INFO  - Home Down Payment set
+09:38:27.972 [main] INFO  - Home Interest rate is set
+09:38:28.163 [main] INFO  - Home Loan Tenure is set
+09:38:28.445 [main] INFO  - Home Loan Insurance  & Loan Fees is set
+09:38:28.837 [main] INFO  - Start date is set
+09:38:29.514 [main] INFO  - Home Owner Expenses is set
+09:38:35.683 [main] INFO  - Table Data fetched properly
+09:38:35.684 [main] INFO  - ------------------------ Test Case 2 completed ------------------->>>>>>
+09:38:41.592 [main] INFO  - ----------------- Test Case 3 Started ----------------------
+09:38:41.648 [main] INFO  - click on calculators
+09:38:42.705 [main] INFO  - click on loan calculator
+09:38:49.014 [main] INFO  - click on loan Amount calculator window
+09:38:49.491 [main] INFO  - Emi TextBox is checked
+09:38:49.525 [main] INFO  - Interest Rate TextBox is checked
+09:38:49.553 [main] INFO  - Loan Tenure TextBox is checked
+09:38:49.580 [main] INFO  - Fees And Charges TextBox is checked
+09:38:49.639 [main] INFO  - year and month is checked
+09:38:50.141 [main] INFO  - Emi Slider is checked
+09:38:50.654 [main] INFO  - Interest Slider is checked
+09:38:51.134 [main] INFO  - LoanTenure Slider is checked
+09:38:51.601 [main] INFO  - LoanFees Slider is checked
+09:38:51.602 [main] INFO  - -------------- Test Case 3 is Completed--------------------->>>>>>>>>>>>
+09:38:57.200 [main] INFO  - ----------------- Test scenario 4 Started ----------------------
+09:38:57.261 [main] INFO  - click on calculators
+09:38:58.307 [main] INFO  - click on loan calculator
+09:39:03.461 [main] INFO  - click on loan tenure calculator window
+09:39:03.523 [main] INFO  - Loan Amount TextBox is checked
+09:39:03.552 [main] INFO  - Emi TextBox is checked
+09:39:03.620 [main] INFO  - Interest Rate TextBox is checked
+09:39:03.661 [main] INFO  - Fees And Charges TextBox is checked
+09:39:04.140 [main] INFO  - LoanAmount Slider is checked
+09:39:04.600 [main] INFO  - Emi Slider is checked
+09:39:05.052 [main] INFO  - Interest Slider is checked
+09:39:05.535 [main] INFO  - LoanFees Slider is checked
+09:39:05.535 [main] INFO  - -------------- Test scenario 4 is Completed--------------------->>>>>>>>>>>>
+20:50:13.885 [main] INFO  - --------------- Start Test Scenario 1 ---------------
+20:50:13.958 [main] INFO  - Car loan button clicked
+20:50:16.332 [main] INFO  - Loan Amount is set
+20:50:17.375 [main] INFO  - rate of interest is set
+20:50:18.956 [main] INFO  - loan tenure is set
+20:50:19.593 [main] INFO  - emi data fetched
+20:50:19.615 [main] INFO  - data fetched in excel file
+20:50:19.615 [main] INFO  - --------------- Test Scenario 1 completed ---------------
+20:50:25.002 [main] INFO  - --------------- Start Test Scenario 2 ---------------
+20:50:25.068 [main] INFO  - click on calculators
+20:50:29.152 [main] INFO  - click on Home-Loan-Emi-Calculator
+20:50:46.070 [main] INFO  - Home value set
+20:50:46.189 [main] INFO  - Home Down Payment set
+20:50:46.351 [main] INFO  - Home Interest rate is set
+20:50:46.521 [main] INFO  - Home Loan Tenure is set
+20:50:46.786 [main] INFO  - Home Loan Insurance  & Loan Fees is set
+20:50:47.158 [main] INFO  - Start date is set
+20:50:47.748 [main] INFO  - Home Owner Expenses is set
+20:50:53.948 [main] INFO  - Table Data fetched properly
+20:50:53.949 [main] INFO  - ------------------------ Test Case 2 completed ------------------->>>>>>
+20:50:59.327 [main] INFO  - ----------------- Test Case 3 Started ----------------------
+20:50:59.383 [main] INFO  - click on calculators
+20:51:00.431 [main] INFO  - click on loan calculator
+20:51:05.920 [main] INFO  - click on loan Amount calculator window
+20:51:06.415 [main] INFO  - Emi TextBox is checked
+20:51:06.451 [main] INFO  - Interest Rate TextBox is checked
+20:51:06.483 [main] INFO  - Loan Tenure TextBox is checked
+20:51:06.513 [main] INFO  - Fees And Charges TextBox is checked
+20:51:06.579 [main] INFO  - year and month is checked
+20:51:07.080 [main] INFO  - Emi Slider is checked
+20:51:07.587 [main] INFO  - Interest Slider is checked
+20:51:08.069 [main] INFO  - LoanTenure Slider is checked
+20:51:08.544 [main] INFO  - LoanFees Slider is checked
+20:51:08.545 [main] INFO  - -------------- Test Case 3 is Completed--------------------->>>>>>>>>>>>
+20:51:13.686 [main] INFO  - ----------------- Test scenario 4 Started ----------------------
+20:51:13.756 [main] INFO  - click on calculators
+20:51:14.811 [main] INFO  - click on loan calculator
+20:51:23.560 [main] INFO  - click on loan tenure calculator window
+20:51:23.636 [main] INFO  - Loan Amount TextBox is checked
+20:51:23.664 [main] INFO  - Emi TextBox is checked
+20:51:23.722 [main] INFO  - Interest Rate TextBox is checked
+20:51:23.753 [main] INFO  - Fees And Charges TextBox is checked
+20:51:24.248 [main] INFO  - LoanAmount Slider is checked
+20:51:24.717 [main] INFO  - Emi Slider is checked
+20:51:25.159 [main] INFO  - Interest Slider is checked
+20:51:25.628 [main] INFO  - LoanFees Slider is checked
+20:51:25.628 [main] INFO  - -------------- Test scenario 4 is Completed--------------------->>>>>>>>>>>>
